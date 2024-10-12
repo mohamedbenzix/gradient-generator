@@ -1,2 +1,4 @@
 # gradient-generator
-this is grandient background generator using html, css and js
+This is grandient background generator using html, css and js
+and is responsive for all devices.
+### [Let's show demo](https://benzix-gradient-generator.netlify.app/)
