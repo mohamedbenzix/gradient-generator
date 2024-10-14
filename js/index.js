@@ -21,8 +21,8 @@ function generate(){
 
 
 $("select").onchange = generate;
-$("#col1").onchange = generate;
-$("#col2").onchange = generate;
+$("#col1").oninput = generate;
+$("#col2").oninput = generate;
 
 
 
